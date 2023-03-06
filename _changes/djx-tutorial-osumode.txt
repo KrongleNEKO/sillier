@@ -1,0 +1,11 @@
+mods/data/djx-tutorial/djx-tutorial-easy.json
+mods/data/djx-tutorial/djx-tutorial-hard.json
+mods/data/djx-tutorial/djx-tutorial.json
+mods/data/djx-tutorial/mod.txt
+mods/data/djx-tutorial/script.lua
+mods/smal/stages/day.json
+mods/smal/stages/day.lua
+mods/songs/djx-tutorial/Voices.ogg
+mods/songs/djx-tutorial/voices.ogg
+mods/songs/djx-tutorial/Inst.ogg
+mods/songs/djx-tutorial/inst.ogg
